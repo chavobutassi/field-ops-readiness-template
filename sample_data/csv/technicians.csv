@@ -1,0 +1,6 @@
+id,name,role,zones,shift,status
+T-01,Elena Marquez,Operations manager,Manhattan;Brooklyn,Day,On job
+T-02,Jorge Palacios,Night supervisor,Queens;Long Island,On call,On job
+T-03,Nina Okafor,Site supervisor,Bronx;Westchester,On call,On job
+T-04,Victor Salinas,Operations manager,Manhattan;Queens,On call,Off shift
+T-05,Amira Haddad,Operations manager,Brooklyn;Staten Island,On call,On call

@@ -1,0 +1,173 @@
+id,timestamp,client_id,type,subtype,first_response_min,dispatched,resolved
+E-00001,2025-11-01 08:08,S-0002,Snow / ice response,Sidewalk ice,14,yes,yes
+E-00002,2025-11-01 12:40,S-0027,Inspection finding,City inspection finding,36,yes,yes
+E-00003,2025-11-01 21:18,S-0021,Snow / ice response,Snow removal call,17,no,yes
+E-00004,2025-11-03 03:20,S-0026,Sanitation complaint,Odor / trash complaint,29,no,yes
+E-00005,2025-11-05 07:08,S-0006,Repair / equipment,Plumbing leak,26,yes,yes
+E-00006,2025-11-11 19:20,S-0013,Repair / equipment,Light fixture,51,yes,yes
+E-00007,2025-11-19 21:22,S-0024,Violation risk,Violation notice,47,no,yes
+E-00008,2025-11-21 06:33,S-0014,Inspection finding,City inspection finding,16,no,yes
+E-00009,2025-11-22 06:51,S-0005,Shift coverage,Short-staffed shift,8,yes,yes
+E-00010,2025-11-24 18:07,S-0017,Inspection finding,City inspection finding,46,no,yes
+E-00011,2025-11-25 17:39,S-0031,Shift coverage,Missed shift,14,yes,yes
+E-00012,2025-11-27 05:18,S-0007,Sanitation complaint,Restroom complaint,10,no,yes
+E-00013,2025-11-27 13:34,S-0009,Repair / equipment,Light fixture,27,no,yes
+E-00014,2025-11-29 15:33,S-0021,Snow / ice response,Sidewalk ice,14,no,no
+E-00015,2025-12-02 18:46,S-0021,Sanitation complaint,Restroom complaint,53,yes,yes
+E-00016,2025-12-03 17:38,S-0003,Violation risk,Pre-violation warning,12,no,yes
+E-00017,2025-12-06 13:48,S-0025,Sanitation complaint,Restroom complaint,59,no,yes
+E-00018,2025-12-06 15:34,S-0004,Violation risk,Pre-violation warning,33,no,yes
+E-00019,2025-12-07 20:24,S-0001,Repair / equipment,Light fixture,18,no,yes
+E-00020,2025-12-11 06:42,S-0026,Snow / ice response,Sidewalk ice,36,yes,yes
+E-00021,2025-12-12 23:23,S-0026,Snow / ice response,Sidewalk ice,40,yes,yes
+E-00022,2025-12-13 06:46,S-0012,Snow / ice response,Sidewalk ice,53,no,yes
+E-00023,2025-12-16 03:00,S-0023,Snow / ice response,Sidewalk ice,16,no,yes
+E-00024,2025-12-17 00:20,S-0006,Snow / ice response,Snow removal call,38,no,yes
+E-00025,2025-12-17 15:41,S-0014,Snow / ice response,Sidewalk ice,50,no,no
+E-00026,2025-12-17 18:21,S-0017,Snow / ice response,Snow removal call,60,yes,yes
+E-00027,2025-12-20 03:47,S-0016,Inspection finding,Client walkthrough finding,30,no,yes
+E-00028,2025-12-20 09:23,S-0019,Shift coverage,Short-staffed shift,43,no,yes
+E-00029,2025-12-20 11:00,S-0003,Snow / ice response,Sidewalk ice,13,no,yes
+E-00030,2025-12-27 12:08,S-0022,Snow / ice response,Snow removal call,51,no,yes
+E-00031,2025-12-29 10:35,S-0027,Repair / equipment,Floor machine down,38,yes,yes
+E-00032,2025-12-30 09:42,S-0019,Shift coverage,Missed shift,2,yes,no
+E-00033,2026-01-03 02:58,S-0011,Snow / ice response,Sidewalk ice,42,no,yes
+E-00034,2026-01-03 03:28,S-0014,Inspection finding,Client walkthrough finding,29,no,yes
+E-00035,2026-01-05 07:22,S-0021,Shift coverage,Short-staffed shift,60,yes,yes
+E-00036,2026-01-07 21:38,S-0006,Violation risk,Pre-violation warning,33,no,yes
+E-00037,2026-01-09 07:02,S-0007,Snow / ice response,Snow removal call,11,yes,no
+E-00038,2026-01-12 16:09,S-0008,Snow / ice response,Snow removal call,30,yes,yes
+E-00039,2026-01-12 18:06,S-0030,Repair / equipment,Plumbing leak,7,no,yes
+E-00040,2026-01-12 21:25,S-0025,Sanitation complaint,Restroom complaint,49,no,yes
+E-00041,2026-01-13 04:23,S-0010,Inspection finding,Client walkthrough finding,20,no,yes
+E-00042,2026-01-13 23:57,S-0016,Sanitation complaint,Restroom complaint,25,no,yes
+E-00043,2026-01-14 00:39,S-0003,Snow / ice response,Sidewalk ice,16,no,yes
+E-00044,2026-01-14 18:36,S-0032,Repair / equipment,Floor machine down,31,no,yes
+E-00045,2026-01-15 19:16,S-0027,Snow / ice response,Snow removal call,51,no,yes
+E-00046,2026-01-16 11:13,S-0022,Snow / ice response,Snow removal call,33,no,yes
+E-00047,2026-01-21 06:56,S-0003,Snow / ice response,Sidewalk ice,2,no,yes
+E-00048,2026-01-23 03:03,S-0027,Snow / ice response,Snow removal call,9,yes,yes
+E-00049,2026-01-23 14:36,S-0018,Shift coverage,Short-staffed shift,35,no,yes
+E-00050,2026-01-23 18:12,S-0018,Snow / ice response,Sidewalk ice,14,yes,yes
+E-00051,2026-01-27 04:18,S-0009,Snow / ice response,Sidewalk ice,32,yes,yes
+E-00052,2026-01-29 09:50,S-0023,Snow / ice response,Snow removal call,19,no,no
+E-00053,2026-02-01 18:30,S-0003,Inspection finding,Client walkthrough finding,8,yes,yes
+E-00054,2026-02-04 09:41,S-0010,Inspection finding,City inspection finding,60,yes,yes
+E-00055,2026-02-04 23:52,S-0028,Snow / ice response,Sidewalk ice,47,yes,yes
+E-00056,2026-02-06 08:25,S-0012,Repair / equipment,Plumbing leak,42,no,yes
+E-00057,2026-02-06 10:09,S-0017,Sanitation complaint,Restroom complaint,42,no,no
+E-00058,2026-02-07 12:27,S-0019,Snow / ice response,Snow removal call,58,yes,yes
+E-00059,2026-02-08 12:03,S-0014,Shift coverage,Missed shift,53,no,yes
+E-00060,2026-02-09 15:56,S-0026,Violation risk,Pre-violation warning,44,no,yes
+E-00061,2026-02-09 16:34,S-0004,Sanitation complaint,Restroom complaint,38,yes,yes
+E-00062,2026-02-12 14:50,S-0016,Sanitation complaint,Odor / trash complaint,40,yes,yes
+E-00063,2026-02-14 04:15,S-0011,Snow / ice response,Snow removal call,45,yes,yes
+E-00064,2026-02-14 21:22,S-0001,Snow / ice response,Snow removal call,55,yes,yes
+E-00065,2026-02-18 04:53,S-0012,Snow / ice response,Sidewalk ice,7,no,yes
+E-00066,2026-02-18 20:01,S-0024,Snow / ice response,Sidewalk ice,53,yes,yes
+E-00067,2026-02-19 07:38,S-0031,Repair / equipment,Floor machine down,34,yes,yes
+E-00068,2026-02-21 13:04,S-0020,Snow / ice response,Sidewalk ice,23,yes,yes
+E-00069,2026-02-22 04:31,S-0032,Snow / ice response,Sidewalk ice,47,no,yes
+E-00070,2026-02-24 03:57,S-0021,Snow / ice response,Sidewalk ice,3,no,yes
+E-00071,2026-02-25 16:21,S-0030,Snow / ice response,Snow removal call,24,no,yes
+E-00072,2026-02-26 00:14,S-0004,Snow / ice response,Sidewalk ice,38,no,yes
+E-00073,2026-02-26 16:49,S-0018,Shift coverage,Missed shift,44,yes,yes
+E-00074,2026-03-01 08:21,S-0013,Sanitation complaint,Odor / trash complaint,21,no,yes
+E-00075,2026-03-01 23:13,S-0010,Inspection finding,Client walkthrough finding,42,no,yes
+E-00076,2026-03-03 10:58,S-0028,Shift coverage,Missed shift,43,yes,yes
+E-00077,2026-03-04 10:19,S-0018,Repair / equipment,Floor machine down,32,no,yes
+E-00078,2026-03-04 21:25,S-0030,Snow / ice response,Sidewalk ice,43,no,yes
+E-00079,2026-03-13 19:44,S-0021,Sanitation complaint,Restroom complaint,44,no,yes
+E-00080,2026-03-15 12:05,S-0007,Repair / equipment,Light fixture,41,yes,yes
+E-00081,2026-03-15 21:45,S-0005,Snow / ice response,Snow removal call,6,no,yes
+E-00082,2026-03-18 16:19,S-0002,Snow / ice response,Sidewalk ice,28,yes,yes
+E-00083,2026-03-23 02:06,S-0015,Violation risk,Violation notice,12,yes,yes
+E-00084,2026-03-23 05:11,S-0013,Violation risk,Pre-violation warning,4,no,no
+E-00085,2026-03-23 16:06,S-0031,Snow / ice response,Snow removal call,7,no,no
+E-00086,2026-03-24 09:21,S-0026,Inspection finding,City inspection finding,18,yes,yes
+E-00087,2026-03-26 14:13,S-0003,Snow / ice response,Snow removal call,35,no,yes
+E-00088,2026-03-27 22:24,S-0031,Shift coverage,Short-staffed shift,60,no,no
+E-00089,2026-03-28 12:45,S-0031,Snow / ice response,Sidewalk ice,20,no,yes
+E-00090,2026-03-30 04:52,S-0009,Snow / ice response,Sidewalk ice,24,no,no
+E-00091,2026-03-31 09:20,S-0020,Snow / ice response,Snow removal call,6,no,yes
+E-00092,2026-04-04 00:18,S-0024,Repair / equipment,Light fixture,50,no,yes
+E-00093,2026-04-04 15:22,S-0027,Shift coverage,Short-staffed shift,50,no,yes
+E-00094,2026-04-11 02:59,S-0024,Inspection finding,Client walkthrough finding,31,yes,yes
+E-00095,2026-04-11 16:33,S-0028,Sanitation complaint,Odor / trash complaint,59,yes,yes
+E-00096,2026-04-13 06:32,S-0022,Snow / ice response,Snow removal call,54,yes,no
+E-00097,2026-04-15 22:26,S-0028,Sanitation complaint,Restroom complaint,38,yes,yes
+E-00098,2026-04-17 12:07,S-0026,Violation risk,Violation notice,23,no,yes
+E-00099,2026-04-19 10:03,S-0003,Shift coverage,Missed shift,27,no,no
+E-00100,2026-04-19 22:12,S-0013,Inspection finding,City inspection finding,42,no,yes
+E-00101,2026-04-21 00:10,S-0013,Violation risk,Pre-violation warning,31,yes,yes
+E-00102,2026-04-23 05:16,S-0020,Snow / ice response,Sidewalk ice,24,no,yes
+E-00103,2026-04-24 04:15,S-0005,Inspection finding,Client walkthrough finding,12,no,yes
+E-00104,2026-04-25 02:08,S-0016,Inspection finding,Client walkthrough finding,38,no,yes
+E-00105,2026-04-26 21:08,S-0020,Repair / equipment,Floor machine down,56,no,yes
+E-00106,2026-04-27 05:11,S-0005,Repair / equipment,Plumbing leak,4,no,yes
+E-00107,2026-04-30 01:18,S-0028,Sanitation complaint,Odor / trash complaint,40,no,yes
+E-00108,2026-05-04 17:36,S-0030,Inspection finding,City inspection finding,20,yes,yes
+E-00109,2026-05-06 02:28,S-0029,Repair / equipment,Floor machine down,27,yes,yes
+E-00110,2026-05-07 17:40,S-0016,Shift coverage,Missed shift,58,yes,yes
+E-00111,2026-05-08 03:54,S-0029,Inspection finding,City inspection finding,34,no,yes
+E-00112,2026-05-16 04:59,S-0031,Violation risk,Violation notice,14,no,yes
+E-00113,2026-05-16 22:06,S-0016,Inspection finding,Client walkthrough finding,44,no,yes
+E-00114,2026-05-21 23:26,S-0008,Inspection finding,City inspection finding,8,no,yes
+E-00115,2026-05-23 14:26,S-0006,Sanitation complaint,Restroom complaint,16,no,yes
+E-00116,2026-05-23 18:14,S-0003,Repair / equipment,Plumbing leak,3,no,yes
+E-00117,2026-05-27 10:57,S-0018,Sanitation complaint,Odor / trash complaint,47,yes,yes
+E-00118,2026-05-27 11:57,S-0031,Shift coverage,Missed shift,13,no,yes
+E-00119,2026-05-29 02:58,S-0024,Inspection finding,Client walkthrough finding,38,yes,yes
+E-00120,2026-06-01 15:03,S-0012,Shift coverage,Missed shift,37,no,yes
+E-00121,2026-06-06 23:15,S-0019,Inspection finding,Client walkthrough finding,25,no,yes
+E-00122,2026-06-09 15:34,S-0015,Sanitation complaint,Odor / trash complaint,18,yes,yes
+E-00123,2026-06-10 06:15,S-0012,Violation risk,Pre-violation warning,48,no,yes
+E-00124,2026-06-16 01:33,S-0019,Sanitation complaint,Restroom complaint,40,yes,yes
+E-00125,2026-06-17 01:00,S-0019,Repair / equipment,Floor machine down,18,no,no
+E-00126,2026-06-20 13:15,S-0029,Sanitation complaint,Odor / trash complaint,52,no,yes
+E-00127,2026-06-20 22:03,S-0029,Sanitation complaint,Restroom complaint,22,yes,no
+E-00128,2026-06-21 21:05,S-0030,Repair / equipment,Light fixture,30,no,yes
+E-00129,2026-06-29 03:37,S-0015,Inspection finding,Client walkthrough finding,59,yes,yes
+E-00130,2026-06-29 04:57,S-0003,Shift coverage,Short-staffed shift,60,no,yes
+E-00131,2026-07-02 00:15,S-0027,Shift coverage,Missed shift,7,no,yes
+E-00132,2026-07-02 10:26,S-0030,Violation risk,Pre-violation warning,46,yes,yes
+E-00133,2026-07-05 15:48,S-0009,Violation risk,Violation notice,49,no,yes
+E-00134,2026-07-06 12:16,S-0016,Repair / equipment,Light fixture,33,no,no
+E-00135,2026-07-06 17:51,S-0011,Sanitation complaint,Odor / trash complaint,15,no,yes
+E-00136,2026-07-08 09:16,S-0008,Shift coverage,Missed shift,28,no,yes
+E-00137,2026-07-10 15:27,S-0005,Shift coverage,Missed shift,45,no,no
+E-00138,2026-07-11 19:47,S-0017,Repair / equipment,Floor machine down,33,yes,yes
+E-00139,2026-07-12 09:21,S-0014,Sanitation complaint,Restroom complaint,12,no,no
+E-00140,2026-07-13 12:50,S-0004,Sanitation complaint,Restroom complaint,28,no,yes
+E-00141,2026-07-14 16:28,S-0017,Inspection finding,City inspection finding,6,yes,yes
+E-00142,2026-07-19 20:34,S-0016,Inspection finding,City inspection finding,5,no,yes
+E-00143,2026-07-20 14:48,S-0020,Sanitation complaint,Odor / trash complaint,30,no,yes
+E-00144,2026-07-21 01:47,S-0022,Sanitation complaint,Restroom complaint,31,no,yes
+E-00145,2026-08-01 10:53,S-0025,Repair / equipment,Plumbing leak,7,no,yes
+E-00146,2026-08-01 16:11,S-0017,Inspection finding,Client walkthrough finding,38,no,yes
+E-00147,2026-08-05 06:53,S-0018,Sanitation complaint,Odor / trash complaint,27,yes,yes
+E-00148,2026-08-07 04:02,S-0002,Sanitation complaint,Odor / trash complaint,38,yes,yes
+E-00149,2026-08-07 04:32,S-0009,Shift coverage,Missed shift,15,no,yes
+E-00150,2026-08-08 20:16,S-0006,Sanitation complaint,Odor / trash complaint,9,no,yes
+E-00151,2026-08-12 01:09,S-0024,Repair / equipment,Light fixture,51,yes,yes
+E-00152,2026-08-13 13:04,S-0004,Inspection finding,Client walkthrough finding,25,no,no
+E-00153,2026-08-14 15:34,S-0009,Shift coverage,Short-staffed shift,22,no,yes
+E-00154,2026-08-17 11:14,S-0007,Sanitation complaint,Odor / trash complaint,25,no,no
+E-00155,2026-08-22 21:04,S-0014,Sanitation complaint,Odor / trash complaint,44,yes,yes
+E-00156,2026-08-29 16:42,S-0004,Violation risk,Pre-violation warning,27,no,yes
+E-00157,2026-09-04 11:58,S-0005,Repair / equipment,Plumbing leak,19,yes,yes
+E-00158,2026-09-05 19:12,S-0018,Sanitation complaint,Restroom complaint,18,no,yes
+E-00159,2026-09-08 16:00,S-0026,Sanitation complaint,Restroom complaint,17,no,yes
+E-00160,2026-09-09 02:53,S-0030,Shift coverage,Short-staffed shift,26,no,yes
+E-00161,2026-09-11 09:31,S-0018,Inspection finding,City inspection finding,12,no,yes
+E-00162,2026-09-12 10:57,S-0024,Violation risk,Pre-violation warning,18,no,yes
+E-00163,2026-09-13 19:21,S-0024,Shift coverage,Missed shift,38,no,yes
+E-00164,2026-09-16 05:22,S-0016,Inspection finding,City inspection finding,49,no,yes
+E-00165,2026-09-16 18:16,S-0020,Repair / equipment,Floor machine down,60,yes,yes
+E-00166,2026-09-16 18:19,S-0031,Repair / equipment,Floor machine down,22,no,yes
+E-00167,2026-09-22 16:17,S-0020,Sanitation complaint,Odor / trash complaint,25,no,yes
+E-00168,2026-09-25 02:40,S-0004,Shift coverage,Short-staffed shift,41,no,yes
+E-00169,2026-10-01 19:52,S-0022,Inspection finding,Client walkthrough finding,24,yes,yes
+E-00170,2026-10-04 18:18,S-0024,Shift coverage,Short-staffed shift,20,no,yes
+E-00171,2026-10-06 06:44,S-0026,Repair / equipment,Floor machine down,12,yes,yes
+E-00172,2026-10-06 07:23,S-0021,Sanitation complaint,Restroom complaint,60,no,yes

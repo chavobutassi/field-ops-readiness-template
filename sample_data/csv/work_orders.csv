@@ -1,0 +1,15 @@
+id,client_id,type,priority,due_date,technician_id,status,tasks
+WO-1001,S-0001,Roof drain and gutter,High,2026-10-08,T-04,In progress,Complete the main work;Test that everything works;Photograph the result;Report to the manager
+WO-1002,S-0009,Deep sanitation,Urgent,2026-10-01,T-01,Scheduled,Complete the main work;Photograph the result;Confirm access with the client;Inspect the site or equipment
+WO-1003,S-0022,Roof drain and gutter,Normal,2026-10-05,T-01,In progress,Complete the main work;Test that everything works;Report to the manager
+WO-1004,S-0015,Pre-inspection walkthrough,Normal,2026-10-04,T-04,In progress,Report to the manager;Inspect the site or equipment;Complete the main work;Confirm access with the client;Photograph the result
+WO-1005,S-0012,Floor strip and wax,Normal,2026-10-15,,Unassigned,Confirm access with the client;Inspect the site or equipment;Complete the main work;Report to the manager
+WO-1006,S-0018,Roof drain and gutter,High,2026-10-08,T-05,In progress,Complete the main work;Inspect the site or equipment;Confirm access with the client;Photograph the result
+WO-1007,S-0013,Roof drain and gutter,Normal,2026-10-17,T-03,Scheduled,Confirm access with the client;Report to the manager;Complete the main work
+WO-1008,S-0006,Deep sanitation,Normal,2026-10-15,T-01,Scheduled,Test that everything works;Report to the manager;Confirm access with the client
+WO-1009,S-0027,Roof drain and gutter,Normal,2026-10-17,T-03,Scheduled,Photograph the result;Report to the manager;Complete the main work
+WO-1010,S-0018,Window cleaning,High,2026-10-14,T-02,Scheduled,Confirm access with the client;Inspect the site or equipment;Report to the manager
+WO-1011,S-0005,Window cleaning,Urgent,2026-10-17,T-03,In progress,Photograph the result;Test that everything works;Confirm access with the client
+WO-1012,S-0014,Window cleaning,Urgent,2026-10-16,T-01,In progress,Report to the manager;Test that everything works;Photograph the result
+WO-1013,S-0020,Roof drain and gutter,Urgent,2026-10-15,,Unassigned,Report to the manager;Test that everything works;Complete the main work;Photograph the result
+WO-1014,S-0002,Roof drain and gutter,High,2026-10-07,T-01,In progress,Report to the manager;Complete the main work;Photograph the result;Inspect the site or equipment

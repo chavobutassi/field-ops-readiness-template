@@ -1,0 +1,33 @@
+id,name,type,zone,plan,installed_year,equipment_count,last_service_date,status,supplies_audit_date,snow_duty
+S-0001,Dunmore Office Park,Office / municipal,New Jersey,Daily service,2019,13,2026-04-26,OK,2026-03-07,yes
+S-0002,Calder Distribution Center,Warehouse,Long Island,Daily service,2006,10,2026-01-14,Deep clean due,2023-04-29,yes
+S-0003,Dunmore Municipal Annex,Office / municipal,Westchester,24/7 coverage,2005,6,2025-06-07,OK,2023-01-06,no
+S-0004,Fenwick Office Park,Office / municipal,Brooklyn,Daily service,2023,7,2025-08-04,Supplies low,2026-01-31,no
+S-0005,Alder Office Park,Office / municipal,Brooklyn,24/7 coverage,2017,16,2025-07-16,Deep clean due,2026-04-12,yes
+S-0006,Ellery Market,Supermarket / food retail,Staten Island,Daily service,2009,11,2026-06-07,OK,2026-08-17,yes
+S-0007,Dunmore Office Park,Office / municipal,New Jersey,24/7 coverage,2025,16,2026-05-22,OK,2024-06-22,no
+S-0008,Ellery Senior Residence,Senior care facility,Manhattan,24/7 coverage,2024,24,2025-02-05,OK,2026-02-15,yes
+S-0009,Alder Senior Residence,Senior care facility,Bronx,24/7 coverage,2007,6,2026-06-18,OK,2025-07-08,yes
+S-0010,Hollis Court,Residential building,Westchester,24/7 coverage,2010,24,2026-04-14,OK,2024-12-11,yes
+S-0011,Calder Distribution Center,Warehouse,Bronx,24/7 coverage,2024,6,2025-07-14,Supplies low,2026-06-03,yes
+S-0012,Ellery Court,Residential building,Manhattan,24/7 coverage,2024,19,2025-11-22,OK,2023-10-09,yes
+S-0013,Hollis Market,Supermarket / food retail,Brooklyn,Nightly service,2011,4,2026-07-10,OK,2025-03-06,no
+S-0014,Calder Office Park,Office / municipal,Bronx,Daily service,2016,8,2025-06-14,OK,2024-10-31,yes
+S-0015,Hollis Distribution Center,Warehouse,Manhattan,Daily service,2024,24,2026-07-04,Deep clean due,2023-12-26,yes
+S-0016,Brook Market,Supermarket / food retail,Staten Island,Daily service,2009,14,2025-09-23,OK,2026-03-19,no
+S-0017,Alder Plaza,Residential building,Long Island,24/7 coverage,2023,4,2025-01-03,Deep clean due,2026-04-14,yes
+S-0018,Garrow Gardens,Residential building,Brooklyn,24/7 coverage,2019,18,2025-03-13,Deep clean due,2026-03-21,yes
+S-0019,Dunmore Elementary,School / university,Brooklyn,24/7 coverage,2013,4,2025-09-07,OK,2024-12-31,yes
+S-0020,Fenwick Market,Supermarket / food retail,Bronx,Nightly service,2015,16,2026-01-05,OK,2025-07-29,no
+S-0021,Fenwick Senior Residence,Senior care facility,Bronx,24/7 coverage,2016,5,2026-07-15,OK,2025-02-19,yes
+S-0022,Dunmore Plaza,Residential building,New Jersey,Weekly + on call,2024,18,2025-10-25,OK,2026-04-09,yes
+S-0023,Ellery High School,School / university,Manhattan,Daily service,2025,8,2025-07-31,Open violation,2024-02-20,yes
+S-0024,Calder Court,Residential building,Staten Island,Daily service,2025,21,2024-11-17,OK,2023-02-06,no
+S-0025,Hollis Plaza,Residential building,Bronx,24/7 coverage,2022,5,2026-03-19,OK,2025-06-02,no
+S-0026,Dunmore High School,School / university,Queens,Nightly service,2019,18,2026-03-01,OK,2023-03-07,yes
+S-0027,Dunmore Office Park,Office / municipal,Westchester,Nightly service,2017,6,2025-11-05,OK,2023-09-05,no
+S-0028,Brook High School,School / university,Manhattan,24/7 coverage,2013,19,2026-08-20,OK,2025-06-18,yes
+S-0029,Fenwick Municipal Annex,Office / municipal,Manhattan,Nightly service,2021,20,2025-06-25,OK,2023-12-05,yes
+S-0030,Ellery Senior Residence,Senior care facility,New Jersey,Weekly + on call,2017,23,2026-02-17,OK,2024-12-24,yes
+S-0031,Dunmore Distribution Center,Warehouse,Staten Island,24/7 coverage,2005,21,2026-08-04,OK,2023-10-18,no
+S-0032,Calder Distribution Center,Warehouse,Brooklyn,24/7 coverage,2013,11,2025-05-22,OK,2023-12-04,yes
